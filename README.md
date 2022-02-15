@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://dev.to/komproximal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="komproximal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kompal-layal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kompal-layal" height="30" width="40" /></a>
-<a href="https://instagram.com/komproximal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komproximal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
