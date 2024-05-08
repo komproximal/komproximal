@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm @komproximal</h1>
 <h3 align="center">A Computer Engineering student and passionate explorer in the field of programming, from India</h3>
 
-- 🔭 I’m currently working on [core java projects](https://github.com/komproximal/core-java-projects)
+- 🔭 I’m currently working on UX design
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/komproximal](https://github.com/komproximal)
 
-- 💬 Ask me about **core java**
+- 💬 Ask me about UI and UX design.
 
 - 📫 How to reach me **kompallayal22@gmail.com**
 
